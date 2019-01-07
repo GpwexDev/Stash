@@ -4,4 +4,5 @@
 that my Repo With **AsciiDoctor Notes** ;)
 
 === TODO
+- Commit DotFiles
 - Commit Documentation with Antora
